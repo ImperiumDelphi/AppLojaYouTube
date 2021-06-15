@@ -1,0 +1,132 @@
+object FrameDadosProduto: TFrameDadosProduto
+  HitTest = False
+  Size.Width = 358.000000000000000000
+  Size.Height = 250.000000000000000000
+  Size.PlatformDefault = False
+  object Rectangle1: TRectangle
+    Align = Contents
+    Corners = [TopLeft, TopRight]
+    Fill.Color = claWhite
+    Size.Width = 358.000000000000000000
+    Size.Height = 250.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    XRadius = 32.000000000000000000
+    YRadius = 32.000000000000000000
+    object Nome: TText
+      Align = Top
+      AutoSize = True
+      Margins.Left = 24.000000000000000000
+      Margins.Top = 24.000000000000000000
+      Margins.Right = 24.000000000000000000
+      Position.X = 24.000000000000000000
+      Position.Y = 24.000000000000000000
+      Size.Width = 310.000000000000000000
+      Size.Height = 29.261718750000000000
+      Size.PlatformDefault = False
+      Text = 'NomeProd'
+      TextSettings.Font.Size = 22.000000000000000000
+      TextSettings.HorzAlign = Leading
+    end
+    object Layout1: TLayout
+      Align = Top
+      Margins.Left = 24.000000000000000000
+      Margins.Top = 12.000000000000000000
+      Margins.Right = 24.000000000000000000
+      Position.X = 24.000000000000000000
+      Position.Y = 65.261718750000000000
+      Size.Width = 310.000000000000000000
+      Size.Height = 40.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      inline Qtd: TFrameSpin
+        Align = Left
+        Size.Width = 154.000000000000000000
+        Size.Height = 40.000000000000000000
+        Size.PlatformDefault = False
+        inherited BTMenos: TFrameSpeedButton
+          inherited Image1: TImage
+            MultiResBitmap.Height = 96
+            MultiResBitmap.Width = 96
+          end
+        end
+        inherited BtMais: TFrameSpeedButton
+          inherited Image1: TImage
+            MultiResBitmap.Height = 96
+            MultiResBitmap.Width = 96
+          end
+        end
+      end
+      object Valor: TText
+        Align = Right
+        AutoSize = True
+        Position.X = 239.781250000000000000
+        Size.Width = 70.218750000000000000
+        Size.Height = 40.000000000000000000
+        Size.PlatformDefault = False
+        Text = '800'
+        TextSettings.Font.Size = 36.000000000000000000
+        TextSettings.WordWrap = False
+        TextSettings.HorzAlign = Trailing
+        object Text1: TText
+          Align = Left
+          Margins.Left = -10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Position.X = -10.000000000000000000
+          Size.Width = 10.000000000000000000
+          Size.Height = 37.882812500000000000
+          Size.PlatformDefault = False
+          Text = '$'
+          TextSettings.Font.Size = 16.000000000000000000
+        end
+      end
+    end
+    object Text2: TText
+      Align = Top
+      Margins.Left = 24.000000000000000000
+      Margins.Top = 24.000000000000000000
+      Margins.Right = 24.000000000000000000
+      Position.X = 24.000000000000000000
+      Position.Y = 129.261718750000000000
+      Size.Width = 310.000000000000000000
+      Size.Height = 28.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Descri'#231#227'o'
+      TextSettings.Font.Size = 22.000000000000000000
+      TextSettings.HorzAlign = Leading
+    end
+    object Descricao: TText
+      Align = Top
+      AutoSize = True
+      Margins.Left = 24.000000000000000000
+      Margins.Top = 8.000000000000000000
+      Margins.Right = 24.000000000000000000
+      Position.X = 24.000000000000000000
+      Position.Y = 165.261718750000000000
+      Size.Width = 310.000000000000000000
+      Size.Height = 18.621093750000000000
+      Size.PlatformDefault = False
+      Text = 'aaaaaaa'
+      TextSettings.Font.Size = 14.000000000000000000
+      TextSettings.HorzAlign = Leading
+    end
+    inline FrameTextButton1: TFrameTextButton
+      Align = Top
+      Margins.Left = 24.000000000000000000
+      Margins.Top = 12.000000000000000000
+      Margins.Right = 24.000000000000000000
+      Position.X = 24.000000000000000000
+      Position.Y = 195.882812500000000000
+      Size.Width = 310.000000000000000000
+      Size.Height = 40.000000000000000000
+      Size.PlatformDefault = False
+      inherited Rectangle1: TRectangle
+        Size.Width = 310.000000000000000000
+      end
+      inherited Text1: TText
+        Size.Width = 310.000000000000000000
+        Text = 'Adicionar ao carrinho'
+      end
+    end
+  end
+end

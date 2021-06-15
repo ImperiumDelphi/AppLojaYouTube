@@ -1,0 +1,27 @@
+object FrameTextButton: TFrameTextButton
+  OnTap = FrameTap
+  Size.Width = 320.000000000000000000
+  Size.Height = 40.000000000000000000
+  Size.PlatformDefault = False
+  OnClick = FrameClick
+  object Rectangle1: TRectangle
+    Align = Contents
+    Fill.Color = claOrange
+    HitTest = False
+    Size.Width = 320.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    XRadius = 8.000000000000000000
+    YRadius = 8.000000000000000000
+  end
+  object Text1: TText
+    Align = Contents
+    HitTest = False
+    Size.Width = 320.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Texto'
+    TextSettings.Font.Size = 16.000000000000000000
+  end
+end

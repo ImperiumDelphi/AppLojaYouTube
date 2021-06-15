@@ -1,0 +1,65 @@
+object FrameSpin: TFrameSpin
+  Size.Width = 154.000000000000000000
+  Size.Height = 40.000000000000000000
+  Size.PlatformDefault = False
+  inline BTMenos: TFrameSpeedButton
+    Tag = -1
+    Align = Left
+    Size.Width = 40.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    inherited Rectangle1: TRectangle
+      Fill.Color = claOrange
+      XRadius = 8.000000000000000000
+      YRadius = 8.000000000000000000
+    end
+    inherited Image1: TImage
+      MultiResBitmap.Height = 96
+      MultiResBitmap.Width = 96
+      MultiResBitmap = <
+        item
+          Width = 96
+          Height = 96
+          PNG = {
+            89504E470D0A1A0A0000000D4948445200000060000000600806000000E29877
+            38000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+            005A49444154785EEDD1B10D00200C03C1C0FE3B43930128902CD05DE3DE5F00
+            0000000000000000000000000000003C63F4DEB47A7F75F5B3D94B8800610284
+            091026409800610200000000000000000000000000000000C091AA0DB5220110
+            AB9491140000000049454E44AE426082}
+          FileName = 'D:\Carnival\FMX.ISComponents\icons\BtMinus.png'
+        end>
+      inherited FillRGBEffect1: TFillRGBEffect
+        Color = claGray
+      end
+    end
+  end
+  inline BtMais: TFrameSpeedButton
+    Tag = 1
+    Align = Right
+    Position.X = 114.000000000000000000
+    Size.Width = 40.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    inherited Rectangle1: TRectangle
+      Fill.Color = claOrange
+      XRadius = 8.000000000000000000
+      YRadius = 8.000000000000000000
+    end
+    inherited Image1: TImage
+      MultiResBitmap.Height = 96
+      MultiResBitmap.Width = 96
+      inherited FillRGBEffect1: TFillRGBEffect
+        Color = claGray
+      end
+    end
+  end
+  object Valor: TText
+    Align = Client
+    Size.Width = 74.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    Text = '3'
+    TextSettings.Font.Size = 20.000000000000000000
+  end
+end

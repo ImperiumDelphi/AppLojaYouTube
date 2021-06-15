@@ -1,0 +1,26 @@
+object Form7: TForm7
+  Left = 0
+  Top = 0
+  Caption = 'Form7'
+  ClientHeight = 767
+  ClientWidth = 384
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnClose = FormClose
+  DesignerMasterStyle = 0
+  inline FrameListaProdutos1: TFrameListaProdutos
+    Align = Contents
+    Margins.Top = 8.000000000000000000
+    Margins.Bottom = 8.000000000000000000
+    Size.Width = 384.000000000000000000
+    Size.Height = 751.000000000000000000
+    Size.PlatformDefault = False
+    inherited ListaProduto: TVertScrollBox
+      Size.Width = 384.000000000000000000
+      Size.Height = 751.000000000000000000
+      Viewport.Width = 384.000000000000000000
+      Viewport.Height = 751.000000000000000000
+    end
+  end
+end

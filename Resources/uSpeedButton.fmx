@@ -1,0 +1,50 @@
+object FrameSpeedButton: TFrameSpeedButton
+  OnTap = FrameTap
+  Size.Width = 40.000000000000000000
+  Size.Height = 40.000000000000000000
+  Size.PlatformDefault = False
+  OnClick = FrameClick
+  object Rectangle1: TRectangle
+    Align = Client
+    Fill.Color = claBlue
+    HitTest = False
+    Size.Width = 40.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    XRadius = 20.000000000000000000
+    YRadius = 20.000000000000000000
+  end
+  object Image1: TImage
+    MultiResBitmap.Height = 96
+    MultiResBitmap.Width = 96
+    MultiResBitmap = <
+      item
+        Width = 96
+        Height = 96
+        PNG = {
+          89504E470D0A1A0A0000000D4948445200000060000000600806000000E29877
+          38000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+          00BC49444154785EEDDB310E8020100041F4FF7FD686D6D848369899E66AD85C
+          070300000000000080DF3AE6DCC935E793ADCE74CE494480980031016202C404
+          880910132026404C80980031016202C404880910132026404C80980031016202
+          C4048809105BF186E6EDDDCEEE3EBD331B10132026404C80980031016202C4FC
+          0F88D980980031016202C404880910132026404C80980031016202C404880910
+          132026404C80980031016202C4048809101300000000000000009618E30676AC
+          036EC0848D790000000049454E44AE426082}
+        FileName = 'D:\Carnival\FMX.ISComponents\icons\BtAdd.png'
+      end>
+    Align = Contents
+    HitTest = False
+    Margins.Left = 4.000000000000000000
+    Margins.Top = 4.000000000000000000
+    Margins.Right = 4.000000000000000000
+    Margins.Bottom = 4.000000000000000000
+    Size.Width = 32.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    object FillRGBEffect1: TFillRGBEffect
+      Color = claWhite
+    end
+  end
+end

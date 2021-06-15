@@ -1,0 +1,92 @@
+object FrameCardProduto: TFrameCardProduto
+  OnTap = FrameTap
+  Size.Width = 202.000000000000000000
+  Size.Height = 289.000000000000000000
+  Size.PlatformDefault = False
+  OnClick = FrameClick
+  OnResize = FrameResize
+  object FBack: TRectangle
+    Align = Client
+    Fill.Color = claCornflowerblue
+    HitTest = False
+    Size.Width = 202.000000000000000000
+    Size.Height = 289.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    XRadius = 24.000000000000000000
+    YRadius = 24.000000000000000000
+  end
+  object NomeProd: TText
+    AutoSize = True
+    HitTest = False
+    Position.X = 14.000000000000000000
+    Position.Y = 12.000000000000000000
+    Size.Width = 42.722332000732420000
+    Size.Height = 18.621093750000000000
+    Size.PlatformDefault = False
+    Text = 'Nome'
+    TextSettings.Font.Size = 14.000000000000000000
+    TextSettings.HorzAlign = Leading
+  end
+  object Preco: TText
+    HitTest = False
+    Position.X = 24.000000000000000000
+    Position.Y = 36.000000000000000000
+    Size.Width = 103.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    Text = '100'
+    TextSettings.Font.Size = 32.000000000000000000
+    TextSettings.HorzAlign = Leading
+    object Text3: TText
+      Align = Left
+      HitTest = False
+      Margins.Left = -14.000000000000000000
+      Margins.Bottom = 8.000000000000000000
+      Position.X = -14.000000000000000000
+      Size.Width = 10.000000000000000000
+      Size.Height = 24.000000000000000000
+      Size.PlatformDefault = False
+      Text = '$'
+    end
+  end
+  object FImage: TImage
+    MultiResBitmap = <
+      item
+      end>
+    Align = Client
+    HitTest = False
+    Margins.Left = 8.000000000000000000
+    Margins.Top = 80.000000000000000000
+    Margins.Right = 8.000000000000000000
+    Margins.Bottom = 8.000000000000000000
+    Size.Width = 186.000000000000000000
+    Size.Height = 201.000000000000000000
+    Size.PlatformDefault = False
+  end
+  inline BtAdd: TFrameSpeedButton
+    Position.X = 141.000000000000000000
+    Position.Y = 10.000000000000000000
+    Size.Width = 50.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    inherited Rectangle1: TRectangle
+      Fill.Color = claLightgray
+      Opacity = 0.400000005960464500
+      Size.Width = 50.000000000000000000
+      Size.Height = 50.000000000000000000
+      XRadius = 25.000000000000000000
+      YRadius = 25.000000000000000000
+    end
+    inherited Image1: TImage
+      MultiResBitmap.Height = 96
+      MultiResBitmap.Width = 96
+      Margins.Left = 12.000000000000000000
+      Margins.Top = 12.000000000000000000
+      Margins.Right = 12.000000000000000000
+      Margins.Bottom = 12.000000000000000000
+      Size.Width = 26.000000000000000000
+      Size.Height = 26.000000000000000000
+    end
+  end
+end

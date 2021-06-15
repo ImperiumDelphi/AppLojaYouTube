@@ -1,0 +1,15 @@
+object FrameListaProdutos: TFrameListaProdutos
+  Size.Width = 446.000000000000000000
+  Size.Height = 467.000000000000000000
+  Size.PlatformDefault = False
+  object ListaProduto: TVertScrollBox
+    Align = Contents
+    Locked = True
+    Size.Width = 446.000000000000000000
+    Size.Height = 467.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 446.000000000000000000
+    Viewport.Height = 467.000000000000000000
+  end
+end

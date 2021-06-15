@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/19 17:49:58.000.151,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/05 10:12:17.000.959,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/11 14:17:49.000.456,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/13 10:14:44.000.463,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 11:18:06.000.183,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 11:24:58.000.409,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 11:38:01.000.838,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 11:50:09.000.155,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 11:52:33.000.263,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:08:00.000.267,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:13:54.000.808,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:17:33.000.431,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:19:32.000.479,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:20:01.000.914,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:21:49.000.904,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:26:05.000.728,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:26:25.000.464,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:53:39.000.742,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 13:10:42.000.982,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 13:40:47.000.090,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 13:42:16.000.847,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 13:56:59.000.264,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 13:58:18.000.390,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 13:59:28.000.071,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 15:14:16.000.340,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/19 14:59:16.000.455,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/27 18:46:07.000.969,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/03/14 11:09:48.000.684,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/03/25 15:43:06.000.994,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/03/29 15:02:48.000.595,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/04/07 15:20:14.000.643,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/04/07 15:20:27.000.691,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2021/04/15 09:57:06.000.269,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2021/04/15 10:12:41.000.482,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2021/04/20 17:10:15.000.093,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2021/04/21 10:58:22.000.591,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/04/28 19:55:20.000.882,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/05/03 10:46:39.000.865,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/05/03 10:50:23.000.160,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2021/05/03 10:50:24.000.317,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/05/07 15:43:54.000.022,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2021/05/17 18:55:50.000.580,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2021/05/17 18:56:18.000.696,D:\Aulas\Youtube\Loja\uLoja.fmx=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit7.fmx</Transaction>
+    <Transaction>2021/05/17 18:56:18.000.696,D:\Aulas\Youtube\Loja\uLoja.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2021/05/17 18:56:22.000.680,D:\Aulas\Youtube\Loja\Loja.dproj=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/05/17 19:16:21.000.417,=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/17 19:21:44.000.801,D:\Aulas\Youtube\Loja\Resources\uCardProd.fmx=D:\Aulas\Youtube\Loja\Unit1.fmx</Transaction>
+    <Transaction>2021/05/17 19:21:44.000.801,D:\Aulas\Youtube\Loja\Resources\uCardProd.pas=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/17 19:22:00.000.997,=D:\Aulas\Youtube\Loja\Unit2.pas</Transaction>
+    <Transaction>2021/05/17 19:24:15.000.073,D:\Aulas\Youtube\Loja\Resources\uSpeedButton.fmx=D:\Aulas\Youtube\Loja\Unit2.fmx</Transaction>
+    <Transaction>2021/05/17 19:24:15.000.073,D:\Aulas\Youtube\Loja\Resources\uSpeedButton.pas=D:\Aulas\Youtube\Loja\Unit2.pas</Transaction>
+    <Transaction>2021/05/18 14:03:19.000.785,=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/18 17:01:02.000.204,=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/18 17:04:24.000.029,D:\Aulas\Youtube\Loja\Unit1.pas=D:\Aulas\Youtube\Loja\uDownload.pas</Transaction>
+    <Transaction>2021/05/18 17:21:32.000.183,=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/18 17:35:27.000.718,D:\Aulas\Youtube\Loja\Unit1.pas=D:\Aulas\Youtube\Loja\uDownload.pas</Transaction>
+    <Transaction>2021/05/18 18:59:59.000.099,=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/18 19:01:28.000.086,D:\Aulas\Youtube\Loja\Unit1.pas=D:\Aulas\Youtube\Loja\Resources\uListaProduto.pas</Transaction>
+    <Transaction>2021/05/18 19:01:28.000.086,D:\Aulas\Youtube\Loja\Unit1.fmx=D:\Aulas\Youtube\Loja\Resources\uListaProduto.fmx</Transaction>
+    <Transaction>2021/05/25 11:15:24.000.893,=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/25 11:19:40.000.892,D:\Aulas\Youtube\Loja\Unit1.pas=D:\Aulas\Youtube\Loja\Resources\uViewProd.pas</Transaction>
+    <Transaction>2021/05/25 11:19:40.000.892,D:\Aulas\Youtube\Loja\Unit1.fmx=D:\Aulas\Youtube\Loja\Resources\uViewProd.fmx</Transaction>
+    <Transaction>2021/05/25 11:22:28.000.012,D:\Aulas\Youtube\Loja\Resources\uViewProd.pas=</Transaction>
+    <Transaction>2021/05/25 11:24:52.000.981,=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/25 11:26:53.000.805,D:\Aulas\Youtube\Loja\Unit1.pas=D:\Aulas\Youtube\Loja\Resources\uViewProd.pas</Transaction>
+    <Transaction>2021/05/25 11:26:53.000.805,D:\Aulas\Youtube\Loja\Unit1.fmx=D:\Aulas\Youtube\Loja\Resources\uViewProd.fmx</Transaction>
+    <Transaction>2021/05/30 18:11:09.000.557,=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 18:14:16.000.179,=D:\Aulas\Youtube\Loja\Unit2.pas</Transaction>
+    <Transaction>2021/05/30 18:17:34.000.896,D:\Aulas\Youtube\Loja\Resources\uSpin.pas=D:\Aulas\Youtube\Loja\Unit2.pas</Transaction>
+    <Transaction>2021/05/30 18:17:34.000.896,D:\Aulas\Youtube\Loja\Resources\uSpin.fmx=D:\Aulas\Youtube\Loja\Unit2.fmx</Transaction>
+    <Transaction>2021/05/30 18:17:57.000.943,D:\Aulas\Youtube\Loja\Resources\uDadosProd.pas=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 18:17:57.000.943,D:\Aulas\Youtube\Loja\Resources\uDadosProd.fmx=D:\Aulas\Youtube\Loja\Unit1.fmx</Transaction>
+    <Transaction>2021/05/30 18:23:42.000.594,=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 18:25:51.000.981,D:\Aulas\Youtube\Loja\Resources\uFarmeTextButton.pas=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 18:25:51.000.981,D:\Aulas\Youtube\Loja\Resources\uFarmeTextButton.fmx=D:\Aulas\Youtube\Loja\Unit1.fmx</Transaction>
+    <Transaction>2021/06/11 18:54:02.000.906,=D:\Aulas\Youtube\Loja\Unit1.pas</Transaction>
+    <Transaction>2021/06/11 18:54:10.000.008,D:\Aulas\Youtube\Loja\Unit1.pas=D:\Aulas\Youtube\Loja\uMessaging.pas</Transaction>
+    <Transaction>2021/06/11 20:51:53.633,=D:\Aulas\Youtube\Loja\AndroidManifest.template.xml</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64="7fc8f2f8"/>
+		<PHackIntosh iOSSimulator="iPhone"/>
+		<PVMMac iOSSimulator="_iossimulator_21089A50-6B52-462E-9F08-66E27FF2BD8D" iOSDevice64="_iosdevice_0f01b4be4efda344590ea6d5dc6cd9ceebe62fcd"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
