@@ -6,7 +6,7 @@ uses
   System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
   System.Json, System.Messaging,
   FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs, System.Net.URLClient, System.Net.HttpClient,
-  System.Net.HttpClientComponent, FMX.Controls.Presentation, FMX.StdCtrls, FMX.Layouts, uListaProduto, FMX.ISMessageDlg;
+  System.Net.HttpClientComponent, FMX.Controls.Presentation, FMX.StdCtrls, FMX.Layouts, uListaProduto;
 
 type
   TForm7 = class(TForm)
